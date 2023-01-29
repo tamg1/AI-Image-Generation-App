@@ -1,4 +1,7 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App  MidJourney & DALL E Clone
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
+# AI Image Generation App  
 
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
+![AI App ](https://user-images.githubusercontent.com/62573860/215314306-60fed542-53c4-416f-b40d-dce4a2838592.png)
+![AI App](https://user-images.githubusercontent.com/62573860/215314308-91a06faa-78d0-4b36-a332-7bd1ba237481.png)
+
+
+References used -> www.JSMastery.pro
